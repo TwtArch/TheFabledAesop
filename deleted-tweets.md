@@ -1,7 +1,7 @@
 # TheFabledAesop Deleted Tweets 
-## (Since January 17, 2021)
+## (Since December 9th, 2021)
 
-The list below includes 195 deleted tweets by
+The list below includes 217 deleted tweets by
 [thefabledaesop](https://twitter.com/thefabledaesop).
 
 There are also 79 tweets that are indicated as not currently deleted by the Twitter API that have been scraped from pages of deleted tweets (as replies, etc.).
@@ -287,3 +287,25 @@ any Twitter client.
 * [22 January 2021](https://web.archive.org/web/20210122230724/https://twitter.com/TheFabledAesop/status/1352754740229189636): I think her behaviour speaks for itself, which is what's important.   She features  here. https://aarjanistan.medium.com/coronaries-and-conspiracies-14a116db5c95
 * [17 January 2021](https://web.archive.org/web/20210117140604/https://twitter.com/TheFabledAesop/status/1350806599133261826): RT @PeteWhite5000: Both now free to go. 36hrs 45min between them. Another one yesterday waited for 13hrs 15min. So 3 trucks have lost 50hrs…
 * [17 January 2021](https://web.archive.org/web/20210117082824/https://twitter.com/TheFabledAesop/status/1350721622521556997): RT @TheFabledAesop: @MichaelRosenYes @JonathanSGlass @jewssf @antisemitism @LabourAgainstAS I see he's been making other foul mouthed threa…
+* [16 January 2021](https://web.archive.org/web/20210116142240/https://twitter.com/TheFabledAesop/status/1350447886010634241): They sued him apparently.  Not really so helpful then.  Zelo Street: Campaign Against Antisemitism Latest Shame  https://zelo-street.blogspot.com/2020/11/previously-zelo-street-noted-draughty.html  via  @zelo_street
+* [15 January 2021](https://web.archive.org/web/20210115012853/https://twitter.com/TheFabledAesop/status/1349891271989587969): @JewishChron Safer from what? Better life for everyone in the UK? The @JewishChaplain is a gutter rag.
+* [13 January 2021](https://web.archive.org/web/20210113224955/https://twitter.com/TheFabledAesop/status/1349488878852440067): RT @raphaeldogg: I read that the people who own @Chartwells_UK, the company who expected hungry kids to live on half a green pepper and som…
+* [13 January 2021](https://web.archive.org/web/20210113085038/https://twitter.com/TheFabledAesop/status/1349277666264969216): RT @Pablo6605119272: @LeaveEUOfficial It actually doesn’t. But while we are here let’s address how Pfizer made the U.K. sign a disclaimer f…
+* [ 7 January 2021](https://web.archive.org/web/20210107064343/https://twitter.com/TheFabledAesop/status/1347071399463149568): RT @MikeSacksEsq: At the time I didn't take that seriously. He was a committed, pro-Bush conservative Republican American 22-year-old cheer…
+* [ 6 January 2021](https://web.archive.org/web/20210106231758/https://twitter.com/TheFabledAesop/status/1346959222794289155): RT @ferkle1980: @NeilDotObrien Have you seen the past 5 years here? You've met Johnson, Gove, Raab, Rees-mogg, Smith, Davis, Sunak, Patel,…
+* [ 6 January 2021](https://web.archive.org/web/20210106002607/https://twitter.com/TheFabledAesop/status/1346613985429381120): RT @ivelostlewis: @epiplexis_ @LukasMukasPukas Well exactly. Makes you wonder how this helps the British people they’re supposed to represe…
+* [ 5 January 2021](https://web.archive.org/web/20210105111123/https://twitter.com/TheFabledAesop/status/1346413984241614848): RT @huntwatchuk: Tynedale Hunt hounds left alpacas 'traumatised'.  #TrailHuntLies   https://t.co/6YRZ7XLOxa
+* [ 5 January 2021](https://web.archive.org/web/20210105014118/https://twitter.com/TheFabledAesop/status/1346270518052270081): RT @WorkPsychol: No wonder we haven’t heard from #nadhimZahawi lately. He’s been too busy setting up a new company just after he was promot…
+* [ 2 January 2021](https://web.archive.org/web/20210102130751/https://twitter.com/TheFabledAesop/status/1345356130424397824): RT @Ruralmaestro: @afneil You think being able to afford £40k per year after tax for school fees makes you upper middle class? Mr Neil, you…
+* [ 2 January 2021](https://web.archive.org/web/20210102012108/https://twitter.com/TheFabledAesop/status/1345178279368650752): RT @bbc5live: 🗣️ "It was minimally affecting children in the first wave... we now have a whole ward of children here."  Laura Duffel, a mat…
+* [30 December 2020](https://web.archive.org/web/20201230231950/https://twitter.com/TheFabledAesop/status/1344422977505546240): RT @jpjanson: Given that Angela Eagle hadn’t played a particularly high profile role in eliminating antisemitism from Labour, it’s quite a…
+* [28 December 2020](https://web.archive.org/web/20201228164143/https://twitter.com/TheFabledAesop/status/1343598012401070081): RT @redgreenaction: @mudlarklives @artbookreviews @Alfiecatmumof5 Actually one of the carriers, #DHL I think, do deliver the parcel, but th…
+* [28 December 2020](https://web.archive.org/web/20201228131340/https://twitter.com/TheFabledAesop/status/1343545654921060357): RT @zsk: Someone has tweeted BBC World, Marcus Rashford and, um, me, demanding that we stop world hunger. I'm not entirely sure what my rol…
+* [26 December 2020](https://web.archive.org/web/20201226154712/https://twitter.com/TheFabledAesop/status/1342859517109874689): RT @Dr13600962: If you know anyone who is struggling in Dearborn/Detroit MI. My best friend and I just bought 6 Apartments (waiting for tit…
+* [18 December 2020](https://web.archive.org/web/20201218225239/https://twitter.com/TheFabledAesop/status/1340067358539395080): This. Oh this.  @CNN   #FoodPoverty   #UNICEF
+* [18 December 2020](https://web.archive.org/web/20201218140649/https://twitter.com/TheFabledAesop/status/1339935151900549120): RT @Darkhorsedan1: @michaeljswalker So is criticizing Israel's treatment of Palestinians holocaust denial now?
+* [16 December 2020](https://web.archive.org/web/20201216081447/https://twitter.com/TheFabledAesop/status/1339121647303921664): Further alienates Jews? What?   @NancyWMendoza  of  @TheCanaryUK  is a Jew. The wrong wort for you?
+* [14 December 2020](https://web.archive.org/web/20201214171038/https://twitter.com/TheFabledAesop/status/1338531859416969221): RT @Martin_Abrams: This is an astonishing exchange on Sir Keir's #CallKeir on LBC today. "Gemma" from Cambridge calls in and is allowed to…
+* [12 December 2020](https://web.archive.org/web/20201212130111/https://twitter.com/TheFabledAesop/status/1337744307546157057): RT @Martin_Abrams: "but for the comments of Jeremy Corbyn the party would be more united by this point."  Keir Starmer here gaslighting the…
+* [10 December 2020](https://web.archive.org/web/20201210231936/https://twitter.com/TheFabledAesop/status/1337175161460678656): RT @Ruralmaestro: @bbcquestiontime @JuliaHB1 @BBCOne And presumably you told her in detail, on air, why this was fact-free bollocks from so…
+* [ 9 December 2020](https://web.archive.org/web/20201209114103/https://twitter.com/TheFabledAesop/status/1336636808864493568): The impact of  #HS2  on heritage: Lower Thorpe Farm, Oxfordshire  https://shar.es/aorF5M   @SPAB1877  To be demolished.
