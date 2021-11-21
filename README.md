@@ -1,5 +1,5 @@
 # TheFabledAesop Deleted Tweets 
-##(Since April 28, 2021)
+## (Since April 28, 2021)
 
 The list below includes 132 tweets deleted by
 [thefabledaesop](https://twitter.com/thefabledaesop) since April 28th.
